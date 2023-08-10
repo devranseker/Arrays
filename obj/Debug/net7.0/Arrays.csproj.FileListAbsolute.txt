@@ -1,0 +1,15 @@
+/Users/eyyuperdogan/Projects/Company Project/Arrays/bin/Debug/net7.0/Arrays
+/Users/eyyuperdogan/Projects/Company Project/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/eyyuperdogan/Projects/Company Project/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/eyyuperdogan/Projects/Company Project/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/eyyuperdogan/Projects/Company Project/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/eyyuperdogan/Projects/Company Project/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/eyyuperdogan/Projects/Company Project/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyyuperdogan/Projects/Company Project/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/eyyuperdogan/Projects/Company Project/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/eyyuperdogan/Projects/Company Project/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/eyyuperdogan/Projects/Company Project/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/eyyuperdogan/Projects/Company Project/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/eyyuperdogan/Projects/Company Project/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/eyyuperdogan/Projects/Company Project/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/eyyuperdogan/Projects/Company Project/Arrays/obj/Debug/net7.0/ref/Arrays.dll
